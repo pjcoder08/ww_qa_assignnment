@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ww.testCases.BasePage"/>
+      <class name="com.ww.testCases.TC_0001_Get_WWHomePage_US"/>
+      <class name="com.ww.testCases.TC_0002_Get_Search_Location_Page"/>
+      <class name="com.ww.testCases.TC_0003_Search_Studio_Location"/>
+      <class name="com.ww.testCases.TC_0004_Select_First_Studio_Location"/>
+      <class name="com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

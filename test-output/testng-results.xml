@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="204181" started-at="2019-09-22T09:39:46Z" finished-at="2019-09-22T09:43:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="204181" started-at="2019-09-22T09:39:46Z" finished-at="2019-09-22T09:43:11Z">
+      <class name="com.ww.testCases.TC_0001_Get_WWHomePage_US">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ww.testCases.TC_0001_Get_WWHomePage_US@5442a311]" name="setUp" is-config="true" duration-ms="1950" started-at="2019-09-22T02:39:46Z" finished-at="2019-09-22T02:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ww.testCases.TC_0001_Get_WWHomePage_US@5442a311]" name="setup" is-config="true" duration-ms="51" started-at="2019-09-22T02:39:48Z" finished-at="2019-09-22T02:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigate_WWPage_US()[pri:1, instance:com.ww.testCases.TC_0001_Get_WWHomePage_US@5442a311]" name="navigate_WWPage_US" duration-ms="31320" started-at="2019-09-22T02:39:48Z" finished-at="2019-09-22T02:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_WWPage_US -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0001_Get_WWHomePage_US@5442a311]" name="tearDown" is-config="true" duration-ms="191" started-at="2019-09-22T02:40:20Z" finished-at="2019-09-22T02:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0001_Get_WWHomePage_US@5442a311]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-22T02:40:20Z" finished-at="2019-09-22T02:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.testCases.TC_0001_Get_WWHomePage_US -->
+      <class name="com.ww.testCases.TC_0003_Search_Studio_Location">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ww.testCases.TC_0003_Search_Studio_Location@1a968a59]" name="setUp" is-config="true" duration-ms="1360" started-at="2019-09-22T02:40:40Z" finished-at="2019-09-22T02:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ww.testCases.TC_0003_Search_Studio_Location@1a968a59]" name="setup" is-config="true" duration-ms="38" started-at="2019-09-22T02:40:42Z" finished-at="2019-09-22T02:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchStudio()[pri:3, instance:com.ww.testCases.TC_0003_Search_Studio_Location@1a968a59]" name="searchStudio" duration-ms="74183" started-at="2019-09-22T02:40:42Z" finished-at="2019-09-22T02:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchStudio -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0003_Search_Studio_Location@1a968a59]" name="tearDown" is-config="true" duration-ms="196" started-at="2019-09-22T02:41:56Z" finished-at="2019-09-22T02:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0003_Search_Studio_Location@1a968a59]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-22T02:41:56Z" finished-at="2019-09-22T02:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.testCases.TC_0003_Search_Studio_Location -->
+      <class name="com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations@77cd7a0]" name="setUp" is-config="true" duration-ms="1353" started-at="2019-09-22T02:42:30Z" finished-at="2019-09-22T02:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations@77cd7a0]" name="setup" is-config="true" duration-ms="38" started-at="2019-09-22T02:42:31Z" finished-at="2019-09-22T02:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getHoursOfOperations()[pri:5, instance:com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations@77cd7a0]" name="getHoursOfOperations" duration-ms="39029" started-at="2019-09-22T02:42:31Z" finished-at="2019-09-22T02:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHoursOfOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations@77cd7a0]" name="tearDown" is-config="true" duration-ms="206" started-at="2019-09-22T02:43:10Z" finished-at="2019-09-22T02:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations@77cd7a0]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-22T02:43:11Z" finished-at="2019-09-22T02:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations -->
+      <class name="com.ww.testCases.TC_0004_Select_First_Studio_Location">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ww.testCases.TC_0004_Select_First_Studio_Location@4667ae56]" name="setUp" is-config="true" duration-ms="1311" started-at="2019-09-22T02:41:56Z" finished-at="2019-09-22T02:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ww.testCases.TC_0004_Select_First_Studio_Location@4667ae56]" name="setup" is-config="true" duration-ms="44" started-at="2019-09-22T02:41:57Z" finished-at="2019-09-22T02:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="select_First_Studio_Location()[pri:4, instance:com.ww.testCases.TC_0004_Select_First_Studio_Location@4667ae56]" name="select_First_Studio_Location" duration-ms="32490" started-at="2019-09-22T02:41:57Z" finished-at="2019-09-22T02:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_First_Studio_Location -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0004_Select_First_Studio_Location@4667ae56]" name="tearDown" is-config="true" duration-ms="186" started-at="2019-09-22T02:42:30Z" finished-at="2019-09-22T02:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0004_Select_First_Studio_Location@4667ae56]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-09-22T02:42:30Z" finished-at="2019-09-22T02:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.testCases.TC_0004_Select_First_Studio_Location -->
+      <class name="com.ww.testCases.TC_0002_Get_Search_Location_Page">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ww.testCases.TC_0002_Get_Search_Location_Page@548e7350]" name="setUp" is-config="true" duration-ms="1280" started-at="2019-09-22T02:40:20Z" finished-at="2019-09-22T02:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ww.testCases.TC_0002_Get_Search_Location_Page@548e7350]" name="setup" is-config="true" duration-ms="42" started-at="2019-09-22T02:40:21Z" finished-at="2019-09-22T02:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getSearchStudiosPage()[pri:2, instance:com.ww.testCases.TC_0002_Get_Search_Location_Page@548e7350]" name="getSearchStudiosPage" duration-ms="18694" started-at="2019-09-22T02:40:21Z" finished-at="2019-09-22T02:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSearchStudiosPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0002_Get_Search_Location_Page@548e7350]" name="tearDown" is-config="true" duration-ms="184" started-at="2019-09-22T02:40:40Z" finished-at="2019-09-22T02:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ww.testCases.TC_0002_Get_Search_Location_Page@548e7350]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-22T02:40:40Z" finished-at="2019-09-22T02:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.testCases.TC_0002_Get_Search_Location_Page -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

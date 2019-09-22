@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.ww.testCases.TC_0004_Select_First_Studio_Location">
+        <methods>
+          <include name="tearDown"/>
+          <include name="select_First_Studio_Location"/>
+          <include name="setUp"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0004_Select_First_Studio_Location -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,79 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com</groupId>
+  <artifactId>ww</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>ww</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <testng.version>6.10</testng.version>
+        <poi.version>3.14</poi.version>
+        <log4j.version>1.2.17</log4j.version>
+        <htmlunit-driver.version>2.30.0</htmlunit-driver.version>
+        <selenium-java.version>3.11.0</selenium-java.version>
+        <log4j-core.version>2.9.0</log4j-core.version>
+        <log4j-api.version>2.9.0</log4j-api.version>
+        <extent-reports.version>3.1.5</extent-reports.version>
+        <extentreports.version>2.41.2</extentreports.version>
+ 		<maven.compiler.source>1.8</maven.compiler.source>
+ 		<maven.compiler.target>1.8</maven.compiler.target>
+        <suiteXmlFile>testng.xml</suiteXmlFile>
+   </properties>
+
+   <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>${selenium-java.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.jayway.restassured/rest-assured -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>htmlunit-driver</artifactId>
+            <version>${htmlunit-driver.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
+        </dependency>
+  		<dependency>
+   			 <groupId>org.apache.logging.log4j</groupId>
+   			 <artifactId>log4j-api</artifactId>
+    		<version>${log4j-api.version}</version>
+  		</dependency>
+  		<dependency>
+    		<groupId>org.apache.logging.log4j</groupId>
+    		<artifactId>log4j-core</artifactId>
+    		<version>${log4j-core.version}</version>
+    	</dependency>
+		<dependency>
+    		<groupId>com.aventstack</groupId>
+    		<artifactId>extentreports</artifactId>
+    		<version>${extent-reports.version}</version>
+		</dependency>
+		<dependency>
+    		<groupId>com.relevantcodes</groupId>
+    		<artifactId>extentreports</artifactId>
+    		<version>${extentreports.version}</version>
+		</dependency>	
+</dependencies>
+</project>

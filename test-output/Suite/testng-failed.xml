@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="getHoursOfOperations"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0005_Get_Studio_Hours_Of_Operations -->
+      <class name="com.ww.testCases.TC_0003_Search_Studio_Location">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="searchStudio"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0003_Search_Studio_Location -->
+      <class name="com.ww.testCases.TC_0004_Select_First_Studio_Location">
+        <methods>
+          <include name="tearDown"/>
+          <include name="select_First_Studio_Location"/>
+          <include name="setup"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0004_Select_First_Studio_Location -->
+      <class name="com.ww.testCases.TC_0002_Get_Search_Location_Page">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="getSearchStudiosPage"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0002_Get_Search_Location_Page -->
+      <class name="com.ww.testCases.TC_0001_Get_WWHomePage_US">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setUp"/>
+          <include name="navigate_WWPage_US"/>
+        </methods>
+      </class> <!-- com.ww.testCases.TC_0001_Get_WWHomePage_US -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
