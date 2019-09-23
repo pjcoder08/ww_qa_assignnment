@@ -11,10 +11,6 @@ Eciplse log output from local run
 
 Launching google chrome with new profile..
 Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 24285
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Sep 22, 2019 9:38:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
 2019-09-22 21:38:38 INFO  WW_UI_AUTOMATION:27 -****************** Starting TC_0001_Get_WWHomePage_US  ******************
 the current URL is : https://www.weightwatchers.com/us/
 ------------------------------------------------------------------------
@@ -34,10 +30,6 @@ IT's A MATCH:.....Title for US HomePage
 2019-09-22 21:38:59 INFO  WW_UI_AUTOMATION:42 -****************** Finished TC_0001_Get_WWHomePage_US  ******************
 Launching google chrome with new profile..
 Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 28572
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Sep 22, 2019 9:39:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
 2019-09-22 21:39:00 INFO  WW_UI_AUTOMATION:25 -****************** Starting TC_0002_Get_Search_Location_Page ******************
 Actual Page Title for Search Studios Page:....Find WW Studios & Meetings Near You | WW USA
 ------------------------------------------------------------------------
@@ -54,10 +46,6 @@ IT's A MATCH:.....Search Studio page Title matches expected title
 2019-09-22 21:39:24 INFO  WW_UI_AUTOMATION:40 -****************** Finished TC_0002_Get_Search_Location_Page ******************
 Launching google chrome with new profile..
 Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 38574
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Sep 22, 2019 9:39:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
 2019-09-22 21:39:25 INFO  WW_UI_AUTOMATION:24 -****************** Starting TC_0003_Search_Studio_Location ******************
 Actual Page Title for Search Studios Page:....Find WW Studios & Meetings Near You | WW USA
 Search Studio by zip -10011
@@ -70,10 +58,6 @@ WW Studio Flatiron
 2019-09-22 21:40:27 INFO  WW_UI_AUTOMATION:33 -****************** Finished TC_0003_Search_Studio_Location ******************
 Launching google chrome with new profile..
 Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 18493
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Sep 22, 2019 9:40:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
 2019-09-22 21:40:29 INFO  WW_UI_AUTOMATION:25 -****************** Starting TC_0004_Select_First_Studio_Location ******************
 Actual Page Title for Search Studios Page:....Find WW Studios & Meetings Near You | WW USA
 Search Studio by zip -10011
@@ -91,10 +75,6 @@ IT's A MATCH:.....First Studio name listed and selected studio are the same.
 2019-09-22 21:41:42 INFO  WW_UI_AUTOMATION:45 -****************** Finished TC_0004_Select_First_Studio_Location ******************
 Launching google chrome with new profile..
 Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 5151
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Sep 22, 2019 9:41:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
 2019-09-22 21:41:44 INFO  WW_UI_AUTOMATION:29 -****************** Starting TC_0005_Get_Studio_Hours_Of_Operations ******************
 Actual Page Title for Search Studios Page:....Find WW Studios & Meetings Near You | WW USA
 Search Studio by zip -10011
