@@ -124,7 +124,6 @@ PASSED: getHoursOfOperations
     Tests run: 5, Failures: 0, Skips: 0
 ===============================================
 
-
 ===============================================
 Default suite
 Total tests run: 5, Failures: 0, Skips: 0
