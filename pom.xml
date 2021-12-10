@@ -18,7 +18,7 @@
         <htmlunit-driver.version>2.30.0</htmlunit-driver.version>
         <selenium-java.version>3.11.0</selenium-java.version>
         <log4j-core.version>2.9.0</log4j-core.version>
-        <log4j-api.version>2.9.0</log4j-api.version>
+        <log4j-api.version>2.15.0</log4j-api.version>
         <extent-reports.version>3.1.5</extent-reports.version>
         <extentreports.version>2.41.2</extentreports.version>
  		<maven.compiler.source>1.8</maven.compiler.source>
